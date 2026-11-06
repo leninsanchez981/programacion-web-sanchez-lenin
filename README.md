@@ -1,7 +1,7 @@
 # Programación Web
 
 **Estudiante:** Lenin Mateo Sánchez Sumba  
-**Modalidad:** Trabajo individual
+**Modalidad:** Trabajo en clase
 
 Repositorio destinado a almacenar las actividades y prácticas desarrolladas durante el curso de Programación Web.
 
